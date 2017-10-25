@@ -62,9 +62,9 @@ data = parseXML('topnewsfeed.xml')
 
 @ns.route('/')                  
 class ShowAll(Resource):   
-    @ns.doc('show_all')         
+    @ns.doc('show_recent')         
     def get(self):    
-        '''List all Courses, Tracks, Degrees'''                 
+        '''Show all recent news'''                 
         return jsonify(data)
 
 
