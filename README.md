@@ -6,9 +6,10 @@ Flask-RESTPlus is being used for the purpose.Flask-RESTPlus is an extension for 
 
 - [x] Udacity
     * Official API(not REST API) at https://www.udacity.com/public-api/v0/courses 
-    * </br>Also refer - https://s3.amazonaws.com/content.udacity-data.com/techdocs/UdacityCourseCatalogAPIDocumentation-v0.pdf
+    * Also refer - https://s3.amazonaws.com/content.udacity-data.com/techdocs/UdacityCourseCatalogAPIDocumentation-v0.pdf
 
 - [x] EDX
+    * RSS FEED from https://www.edx.org/api/v2/report/course-feed/rss
 
 - [x] Hindustan Times 
-* RSS FEED from http://www.hindustantimes.com/rss/topnews/rssfeed.xml
+    * RSS FEED from http://www.hindustantimes.com/rss/topnews/rssfeed.xml
