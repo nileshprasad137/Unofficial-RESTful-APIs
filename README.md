@@ -15,3 +15,18 @@ Flask-RESTPlus is being used for the purpose.Flask-RESTPlus is an extension for 
     * RSS FEED from http://www.hindustantimes.com/rss/topnews/rssfeed.xml
 
 - [ ] MIT OCW
+
+- [ ] Techcrunch
+
+## How to Run?
+
+Flask-RestPlus requires Python 2.7 or 3.4+.
+
+You can install Flask-Restplus with pip:
+`$ pip install flask-restplus`
+or with easy_install:
+`$ easy_install flask-restplus`
+
+In order to run an API, `cd` into the directory and in the terminal run the command - `python file_name.py`
+
+The purpose of this repository was to learn about REST APIs. Feel free to contribue and add more APIs.
