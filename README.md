@@ -20,7 +20,7 @@ Flask-RESTPlus is being used for the purpose.Flask-RESTPlus is an extension for 
 
 ## How to Run?
 
-Flask-RestPlus requires Python 2.7 or 3.4+.
+Flask-RestPlus requires Python 2.7+.
 
 You can install Flask-Restplus with pip:
 `$ pip install flask-restplus`
